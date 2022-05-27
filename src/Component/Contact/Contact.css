@@ -1,0 +1,34 @@
+.contact{
+    width: 100%;
+    height: 50vh;
+  
+   
+
+}
+.contact-1{
+    width: 60%;
+    display: flex;
+  
+   
+   
+}
+.contact-2{
+    width: 40%;
+    height: 40vh;
+    background-color: brown;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+.contact-2 h5{
+    text-align: center;
+    color: whitesmoke;
+}
+.btn{
+    width: 15%;
+    height: 8%;
+    background-color: black;
+    color: aliceblue;
+}
+.contactme{
+    text-align: center;
+}

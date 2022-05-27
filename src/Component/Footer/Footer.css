@@ -1,0 +1,32 @@
+.Footer{
+    width: 100%;
+    height: 40vh;
+    background-color: black;
+    opacity: 0.9;
+}
+.Footer-1{
+    display: flex;
+}
+.Footer-2 h1{
+    color: brown;
+    margin-left: 20%;
+    margin-top: 60px;
+}
+.para{
+    width: 30%;
+    margin-left: 15%;
+    color: aliceblue;
+}
+
+.social-container{
+    display: flex;
+    margin-top: 15%;
+    justify-content: space-around;
+    width: 10%;
+    margin-left: 20%;
+}
+.social-container a {
+   
+    color: brown;
+
+}
